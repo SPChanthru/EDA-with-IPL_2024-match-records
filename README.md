@@ -50,6 +50,6 @@ The project includes a detailed **Exploratory Data Analysis (EDA)** of IPL 2024 
 ## Contact
 
 - **Email:** spchanthru@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/chanthrusp)  
-- **Tableau:** [Your GitHub](https://github.com/SPChanthru/Tableau)
+- **LinkedIn:** [My LinkedIn Profile](linkedin.com/in/chanthrusp)  
+- **Tableau:** [My tableau](https://github.com/SPChanthru/Tableau)
 
