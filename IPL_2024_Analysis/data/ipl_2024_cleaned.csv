@@ -1,0 +1,21 @@
+id,date,team1,team2,toss_winner,decision,first_score,first_wkts,second_score,second_wkts,winner,player_of_the_match,most_runs,most_wkts
+14,2024-04-01,Mumbai,Rajasthan,Rajasthan,Field,125,9,127,4,Rajasthan,Trent Boult,Riyan Parag ,Yuzvendra Chahal
+15,2024-04-02,Lucknow,Banglore,Banglore,Field,181,5,153,10,Lucknow,Mayank Yadav,Quinton de Kock,Mayank Yadav
+16,2024-04-03,Kolkata,Delhi,Kolkata,Bat,272,7,166,10,Kolkata,Sunil Narine,Sunil Narine,Vaibhav Arora
+17,2024-04-04,Gujarat,Punjab,Punjab,Field,199,4,200,7,Punjab,Shashank Singh,Shubman Gill,Noor Ahmad
+18,2024-04-05,Chennai,Hyderabad,Hyderabad,Field,165,5,166,4,Hyderabad,Abhishek Sharma,Aiden Markram,Moeen Ali
+19,2024-04-06,Banglore,Rajasthan,Rajasthan,Field,183,3,189,4,Rajasthan,Jos Buttler,Virat Kohli,Reece Topley
+20,2024-04-07,Mumbai,Delhi,Delhi,Field,234,5,205,8,Mumbai,Romario Shepherd,Tristan Stubbs ,Gerald Coetzee
+21,2024-04-07,Lucknow,Gujarat,Lucknow,Bat,163,5,130,10,Lucknow,Yash Thakur,Marcus Stoinis,Yash Thakur
+22,2024-04-08,Kolkata,Chennai,Chennai,Field,137,9,141,3,Chennai,Ravindra Jadeja,Ruturaj Gaikwad,Ravindra Jadeja
+23,2024-04-09,Hyderabad,Punjab,Punjab,Field,182,9,180,6,Hyderabad,Nitish Kumar Reddy,Nitish Kumar Reddy,Arshdeep Singh
+49,2024-05-01,Chennai,Punjab,Punjab,Field,162,7,163,3,Punjab,Harpreet Brar,Ruturaj Gaikwad,Rahul Chahar
+50,2024-05-02,Hyderabad,Rajasthan,Hyderabad,Bat,201,3,200,7,Hyderabad,Bhuvneshwar Kumar,Riyan Parag ,Bhuvneshwar Kumar
+51,2024-05-03,Kolkata,Mumbai,Mumbai,Field,169,10,145,10,Kolkata,Venkatesh Iyer,Venkatesh Iyer,Mitchell Starc
+52,2024-05-04,Gujarat,Banglore,Banglore,Field,147,10,152,6,Banglore,Mohammed Siraj,Faf du Plessis,Josh Little
+53,2024-05-05,Chennai,Punjab,Punjab,Field,167,9,139,9,Chennai,Ravindra Jadeja,Ravindra Jadeja,Ravindra Jadeja
+54,2024-05-05,Kolkata,Lucknow,Lucknow,Field,235,6,137,10,Kolkata,Sunil Narine,Sunil Narine,Harshit Rana
+55,2024-05-06,Hyderabad,Mumbai,Mumbai,Field,173,8,174,3,Mumbai,Suryakumar Yadav,Suryakumar Yadav,Hardik Pandya
+56,2024-05-07,Delhi,Rajasthan,Rajasthan,Field,221,8,201,8,Delhi,Kuldeep Yadav,Sanju Samson,Ravichandran Ashwin
+57,2024-05-08,Lucknow,Hyderabad,Lucknow,Bat,165,4,167,0,Hyderabad,Travis Head,Travis Head,Bhuvneshwar Kumar
+58,2024-05-09,Banglore,Punjab,Punjab,Field,241,7,181,10,Banglore,Virat Kohli,Virat Kohli,Harshal Patel

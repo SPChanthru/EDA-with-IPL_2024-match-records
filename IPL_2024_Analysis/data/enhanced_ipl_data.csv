@@ -1,0 +1,21 @@
+id,date,team1,team2,toss_winner,decision,first_score,first_wkts,second_score,second_wkts,winner,player_of_the_match,most_runs,most_wkts,team1_batting_average,team2_batting_average
+14,2024-01-04,Mumbai,Rajasthan,Rajasthan,Field,125,9,127,4,Rajasthan,Trent Boult,Riyan Parag ,Yuzvendra Chahal,13.88888888888889,31.75
+15,2024-02-04,Lucknow,Banglore,Banglore,Field,181,5,153,10,Lucknow,Mayank Yadav,Quinton de Kock,Mayank Yadav,36.2,15.3
+16,2024-03-04,Kolkata,Delhi,Kolkata,Bat,272,7,166,10,Kolkata,Sunil Narine,Sunil Narine,Vaibhav Arora,38.857142857142854,16.6
+17,2024-04-04,Gujarat,Punjab,Punjab,Field,199,4,200,7,Punjab,Shashank Singh,Shubman Gill,Noor Ahmad,49.75,28.571428571428573
+18,2024-05-04,Chennai,Hyderabad,Hyderabad,Field,165,5,166,4,Hyderabad,Abhishek Sharma,Aiden Markram,Moeen Ali,33.0,41.5
+19,2024-06-04,Banglore,Rajasthan,Rajasthan,Field,183,3,189,4,Rajasthan,Jos Buttler,Virat Kohli,Reece Topley,61.0,47.25
+20,2024-07-04,Mumbai,Delhi,Delhi,Field,234,5,205,8,Mumbai,Romario Shepherd,Tristan Stubbs ,Gerald Coetzee,46.8,25.625
+21,2024-07-04,Lucknow,Gujarat,Lucknow,Bat,163,5,130,10,Lucknow,Yash Thakur,Marcus Stoinis,Yash Thakur,32.6,13.0
+22,2024-08-04,Kolkata,Chennai,Chennai,Field,137,9,141,3,Chennai,Ravindra Jadeja,Ruturaj Gaikwad,Ravindra Jadeja,15.222222222222221,47.0
+23,2024-09-04,Hyderabad,Punjab,Punjab,Field,182,9,180,6,Hyderabad,Nitish Kumar Reddy,Nitish Kumar Reddy,Arshdeep Singh,20.22222222222222,30.0
+49,2024-01-05,Chennai,Punjab,Punjab,Field,162,7,163,3,Punjab,Harpreet Brar,Ruturaj Gaikwad,Rahul Chahar,23.142857142857142,54.333333333333336
+50,2024-02-05,Hyderabad,Rajasthan,Hyderabad,Bat,201,3,200,7,Hyderabad,Bhuvneshwar Kumar,Riyan Parag ,Bhuvneshwar Kumar,67.0,28.571428571428573
+51,2024-03-05,Kolkata,Mumbai,Mumbai,Field,169,10,145,10,Kolkata,Venkatesh Iyer,Venkatesh Iyer,Mitchell Starc,16.9,14.5
+52,2024-04-05,Gujarat,Banglore,Banglore,Field,147,10,152,6,Banglore,Mohammed Siraj,Faf du Plessis,Josh Little,14.7,25.333333333333332
+53,2024-05-05,Chennai,Punjab,Punjab,Field,167,9,139,9,Chennai,Ravindra Jadeja,Ravindra Jadeja,Ravindra Jadeja,18.555555555555557,15.444444444444445
+54,2024-05-05,Kolkata,Lucknow,Lucknow,Field,235,6,137,10,Kolkata,Sunil Narine,Sunil Narine,Harshit Rana,39.166666666666664,13.7
+55,2024-06-05,Hyderabad,Mumbai,Mumbai,Field,173,8,174,3,Mumbai,Suryakumar Yadav,Suryakumar Yadav,Hardik Pandya,21.625,58.0
+56,2024-07-05,Delhi,Rajasthan,Rajasthan,Field,221,8,201,8,Delhi,Kuldeep Yadav,Sanju Samson,Ravichandran Ashwin,27.625,25.125
+57,2024-08-05,Lucknow,Hyderabad,Lucknow,Bat,165,4,167,0,Hyderabad,Travis Head,Travis Head,Bhuvneshwar Kumar,41.25,
+58,2024-09-05,Banglore,Punjab,Punjab,Field,241,7,181,10,Banglore,Virat Kohli,Virat Kohli,Harshal Patel,34.42857142857143,18.1
